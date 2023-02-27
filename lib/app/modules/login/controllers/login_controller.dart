@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:examp/app/modules/dashboard/views/dashboard_view.dart';
+import 'package:hafsvilla/app/modules/dashboard/views/dashboard_view.dart';
 
 import '../../../utils/api.dart';
 
